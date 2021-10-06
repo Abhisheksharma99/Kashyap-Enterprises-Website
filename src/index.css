@@ -1,0 +1,259 @@
+.blog-home3 {
+  color: #8d97ad;
+  
+}
+
+.blog-home3 h1,
+.blog-home3 h2,
+.blog-home3 h3,
+.blog-home3 h4,
+.blog-home3 h5,
+.blog-home3 h6 {
+  color: #3e4555;
+}
+
+.blog-home3 h5 {
+    line-height: 22px;
+    font-size: 18px;
+}
+
+.blog-home3 a.link {
+    color: #3e4555;
+}
+
+.blog-home3 a.link:hover {
+    color: #17215c;
+}
+
+.blog-home3 .font-weight-medium {
+  font-weight: 500;
+}
+
+.blog-home3 .bg-light {
+  background-color: #f4f8fa !important;
+}
+
+.blog-home3 .subtitle {
+  color: #8d97ad;
+  line-height: 24px;
+}
+
+.blog-home3 .card.card-shadow {
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+
+.blog-home3 .on-hover {
+  -webkit-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  transition: 0.2s ease-in;
+}
+
+.blog-home3 .on-hover:hover {
+  -webkit-transform: translateY(-10px);
+  -ms-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+
+.blog-home3 .bg-success-gradiant {
+  background: #17215c;
+  background: -webkit-linear-gradient(legacy-direction(to right), #17215c 0%, #17215c 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#17215c), to(#17215c));
+  background: -webkit-linear-gradient(left, #17215c 0%, #17215c 100%);
+  background: -o-linear-gradient(left, #17215c 0%, #17215c 100%);
+  background: linear-gradient(to right, #17215c 0%, #17215c 100%);
+}
+
+.blog-home3 .date-pos {
+  font-size: 12px;
+}
+
+.blog-home3 a {
+  overflow: hidden;
+}
+
+.blog-home3 a img {
+  -webkit-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  transition: 0.2s ease-in;
+}
+
+.blog-home3 a img:hover {
+  -webkit-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+}
+.blogheading{
+  color: #17215c !important;
+  border-bottom: 2px solid #17215c;
+}
+/*Blog section */
+
+.navbarbg{
+  background-image: url('https://kashyapenterprises.com/wp-content/uploads/2020/04/potassium-salt-4549408_1920.jpg');
+}
+* {box-sizing:border-box}
+
+.carouselimg{
+  height:800px;
+  width:auto;
+}
+.captionclr{
+  background-color: #17215c !important;
+}
+.imgheight{
+  height:"300px" !important
+}
+.productbtn {
+  justify-content:center !important;
+  margin: auto !important;
+  border-color: #17215c;
+}
+.productbtn:hover{
+  background-color: #17215c;
+  color: white;
+  transition-duration: 0.5s;
+}
+.footerbg{
+  background-image: url('https://kashyapenterprises.com/wp-content/uploads/2020/04/potassium-salt-4549408_1920.jpg') !important;
+}
+.footerimg{
+  height:100px;
+  width: 250px;
+  float: left;
+}
+.footlogo{
+  height: 70px;
+  width: 180px;
+  margin-bottom: 10px;
+}
+.cardborder{
+  border-color: #17215c;
+}
+.cardbtn{
+  border-color: #17215c;
+  background-color: #17215c;
+  color: white;
+}
+.modalbtn {
+  background-color: #17215c;
+  border-color: #17215c;
+  color: white;
+}
+
+.cardbtn:hover{
+  color: white;
+}
+.cardshadow:hover{
+  box-shadow: 0 4px 8px 0 #17215c, 0 6px 20px 0 #17215c;
+  cursor:zoom-in ;
+}
+.productheading{
+  border-bottom: 3px solid #17215c !important;
+  color: #17215c;
+}
+.productheading:hover{
+  border-bottom: 3px solid #17215c;
+  transition: ease-in;
+  transition-duration: 0.5s;
+  margin-left: 50px;
+}
+.sociallinks{
+  background-color: #17215c !important;
+}
+.imartlogo{
+  height: 30px !important;
+  width: 30px !important;
+}
+@media screen and (max-width:700px) {
+  
+}
+/*Footer icons hover effects*/
+.iconcontainer {
+  background-color: #17215c;
+  height: 50px;
+  
+}
+.linkicon {
+  height: 70px;
+  width: 70px;
+  background-color: #17215c;
+  border-radius: 35px;
+  text-align: center;
+  margin: 7px;
+}
+
+a i {
+  transition: all 0.3s linear;
+}
+
+a:hover i {
+  transform: scale(1.5);
+}
+.youtube{
+  color: white;
+}
+.youtube:hover {
+  color: red;
+}
+.facebook{
+  color: white;
+}
+.facebook:hover {
+  color: blue;
+}
+.instagram{
+  color: white;
+}
+.instagram:hover {
+  color: #e11d74;
+}
+.twitter{
+  color: white;
+}
+.twitter:hover {
+  color: #00adb5;
+}
+.whatsapp{
+  color: white;
+}
+.whatsapp:hover {
+  color: green;
+}
+.linkedin {
+  color: white;
+}
+.linkedin:hover {
+  color: #04009a;
+}
+/* About Us*/
+.abtbg{
+  background-image:url('https://png.pngtree.com/thumb_back/fw800/back_our/20190617/ourmid/pngtree-polygonal-chemical-molecule-poster-background-image_125106.jpg') !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.abthead{
+  color: #17215c;
+  border-bottom: 2px solid #17215c !important;
+}
+/*Contact Us*/
+.contacthead{
+  color: #17215c !important;
+}
+.formbg{
+  background-image: url('https://i1.wp.com/salesrecruitmentgroup.nl/wp-content/uploads/2014/09/background-contact-us.jpg?fit=1920%2C1280&ssl=1');
+  background-size: cover;
+  border: 5px double #17215c;
+}
+.emailicon{
+  color: #17215c;
+}
+.websiteicon{
+  color: #17215c;
+}
+.addressicon{
+  color: #17215c;
+}
+.telicon{
+  color: #17215c;
+}
